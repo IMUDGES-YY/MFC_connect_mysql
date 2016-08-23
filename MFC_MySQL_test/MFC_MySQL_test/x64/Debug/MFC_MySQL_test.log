@@ -1,0 +1,34 @@
+﻿生成启动时间为 2016/8/22 19:44:34。
+     1>项目“D:\VS2010\MFC_MySQL_test\MFC_MySQL_test\MFC_MySQL_test.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\MFC_MySQL_test.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Debug\MFC_MySQL_test.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt MFC_MySQL_testDlg.cpp
+         MFC_MySQL_testDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS2010\MFC_MySQL_test\x64\Debug\MFC_MySQL_test.exe" /INCREMENTAL /NOLOGO libmysql.lib /MANIFEST /ManifestFile:"x64\Debug\MFC_MySQL_test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\VS2010\MFC_MySQL_test\x64\Debug\MFC_MySQL_test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS2010\MFC_MySQL_test\x64\Debug\MFC_MySQL_test.lib" /MACHINE:X64 x64\Debug\MFC_MySQL_test.res
+         x64\Debug\MFC_MySQL_test.exe.embed.manifest.res
+         x64\Debug\TransformPlus.obj
+         x64\Debug\MFC_MySQL_test.obj
+         x64\Debug\MFC_MySQL_testDlg.obj
+         x64\Debug\stdafx.obj
+         MFC_MySQL_test.vcxproj -> D:\VS2010\MFC_MySQL_test\x64\Debug\MFC_MySQL_test.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\MFC_MySQL_test.exe.embed.manifest" /manifest x64\Debug\MFC_MySQL_test.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         MFC_MySQL_test.vcxproj -> D:\VS2010\MFC_MySQL_test\x64\Debug\MFC_MySQL_test.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\MFC_MySQL_test.unsuccessfulbuild”。
+         正在对“x64\Debug\MFC_MySQL_test.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\VS2010\MFC_MySQL_test\MFC_MySQL_test\MFC_MySQL_test.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.75

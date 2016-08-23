@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC_MySQL_test", "MFC_MySQL_test\MFC_MySQL_test.vcxproj", "{3019833C-4FD5-439A-9E7C-51974D95FBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3019833C-4FD5-439A-9E7C-51974D95FBBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3019833C-4FD5-439A-9E7C-51974D95FBBE}.Debug|Win32.Build.0 = Debug|Win32
+		{3019833C-4FD5-439A-9E7C-51974D95FBBE}.Debug|x64.ActiveCfg = Debug|x64
+		{3019833C-4FD5-439A-9E7C-51974D95FBBE}.Debug|x64.Build.0 = Debug|x64
+		{3019833C-4FD5-439A-9E7C-51974D95FBBE}.Release|Win32.ActiveCfg = Release|Win32
+		{3019833C-4FD5-439A-9E7C-51974D95FBBE}.Release|Win32.Build.0 = Release|Win32
+		{3019833C-4FD5-439A-9E7C-51974D95FBBE}.Release|x64.ActiveCfg = Release|x64
+		{3019833C-4FD5-439A-9E7C-51974D95FBBE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
